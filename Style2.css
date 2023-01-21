@@ -1,0 +1,72 @@
+.TextField{
+    box-sizing: border-box;
+
+position: absolute;
+width: 716px;
+height: 61px;
+left: 55px;
+top: 94px;
+
+border: 1px solid #808080;
+border-radius: 10px;
+}
+
+.Select{box-sizing: border-box;
+
+position: absolute;
+width: 716px;
+height: 61px;
+left: 58px;
+top: 248px;
+
+border: 1px solid #808080;
+border-radius: 10px;
+}
+
+.textArea{
+    box-sizing: border-box;
+
+position: absolute;
+width: 716px;
+height: 197px;
+left: 61px;
+top: 402px;
+
+border: 1px solid #808080;
+border-radius: 10px;
+}
+
+.search{
+    box-sizing: border-box;
+
+position: absolute;
+width: 716px;
+height: 61px;
+left: 912px;
+top: 94px;
+
+border: 1px solid #808080;
+border-radius: 10px;
+
+}
+.Addons{
+    box-sizing: border-box;
+
+position: absolute;
+width: 716px;
+height: 65px;
+left: 64px;
+top: 695px;
+
+border: 1px solid #808080;
+border-radius: 10px;
+}
+.Inc{
+    position: absolute;
+width: 256px;
+height: 220px;
+left: 899px;
+top: 301px;
+
+background: url(Screenshot 2023-01-20 at 8.14.png);
+}
